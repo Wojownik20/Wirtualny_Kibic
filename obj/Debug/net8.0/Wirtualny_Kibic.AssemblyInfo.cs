@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Wirtualny_Kibic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2563531f32e72e03c932dd3ed447b0cc8dea6d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Wirtualny_Kibic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Wirtualny_Kibic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
